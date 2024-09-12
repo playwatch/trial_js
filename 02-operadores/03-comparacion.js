@@ -1,10 +1,10 @@
-let a = 5;
-console.log(a > 5);
-console.log(a >= 5); 
-console.log(a < 5);
-console.log(a <= 5);
+let a0203 = 5;
+console.log(a0203 > 5);
+console.log(a0203 >= 5); 
+console.log(a0203 < 5);
+console.log(a0203 <= 5);
 
-console.log(a == 5);
-console.log(a != 5);
-console.log(a === '5');
-console.log(a !== '5');
+console.log(a0203 == 5);
+console.log(a0203 != 5);
+console.log(a0203 === '5');
+console.log(a0203 !== '5');

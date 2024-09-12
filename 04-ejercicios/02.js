@@ -1,17 +1,17 @@
-function nombreResolucion(ancho, alto){
-    if(ancho>=7680 && alto >= 4320)
+function nombreResolucion0402(ancho0402, alto0402){
+    if(ancho0402>=7680 && alto0402 >= 4320)
         return '8K';
-    else if(ancho>=3840 && alto >= 2160)
+    else if(ancho0402>=3840 && alto0402 >= 2160)
         return '4k';
-    else if(ancho>=2560 && alto >= 1440)
+    else if(ancho0402>=2560 && alto0402 >= 1440)
         return 'WQHD';
-    else if(ancho>=1920 && alto >= 1080)
+    else if(ancho0402>=1920 && alto0402 >= 1080)
         return 'FHD';
-    else if(ancho>=1280 && alto >= 720)
+    else if(ancho0402>=1280 && alto0402 >= 720)
         return 'HD';
     else return false;
 
 }
 
-let nombre= nombreResolucion(1000, 2200);
-console.log(nombre);
+let nombre0402= nombreResolucion0402(1000, 2200);
+console.log(nombre0402);

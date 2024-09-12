@@ -1,7 +1,7 @@
-let edad = 15;
-if (edad > 17){
+let edad0302 = 15;
+if (edad0302 > 17){
     console.log('Usuario Mayor');
-}else if (edad > 13){
+}else if (edad0302 > 13){
     console.log('Acompañado');
 
 }else{

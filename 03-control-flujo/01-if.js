@@ -1,4 +1,4 @@
-let edad = 15;
-if (edad > 17){
+let edad0301 = 15;
+if (edad0301 > 17){
     console.log('Usuario Mayor');
 }

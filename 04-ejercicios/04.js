@@ -1,7 +1,7 @@
-let i = 0;
-while(i<=10){
-    if (i%2==1)
-        console.log(i);
-    i++;
+let i0404 = 0;
+while(i0404<=10){
+    if (i0404%2==1)
+        console.log(i0404);
+    i0404++;
 
 };

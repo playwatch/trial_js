@@ -1,20 +1,20 @@
-const user = {id: 1};
+const user0502 = {id0502: 1};
 
-user.name = 'nico';
-user.guardar = function(){
-    console.log('Guardando', user.name );
+user0502.name0502 = 'nico';
+user0502.guardar0502 = function(){
+    console.log('Guardando', user0502.name0502 );
 }
 
-user.guardar();
-console.log(user.name);
+user0502.guardar0502();
+console.log(user0502.name0502);
 
-delete user.name;
-delete user.guardar;
-console.log(user);
+delete user0502.name0502;
+delete user0502.guardar0502;
+console.log(user0502);
 
-//const user1 = Object.freeze({
-const user1 = Object.seal({
-    id: 19
+//const user10502 = Object.freeze({
+const user10502 = Object.seal({
+    id0502: 19
 });
-user1.name = 'name';
-console.log(user1);
+user10502.name0502 = 'name0502';
+console.log(user10502);

@@ -1,6 +1,6 @@
-let nombre = "hi WWWWWORLDDDD";
+let nombre0101 = "hi WWWWWORLDDDD";
 
-console.log(nombre);
+console.log(nombre0101);
 
-let apellido;
-apellido = 'guillen';
+let apellido0101;
+apellido0101 = 'guillen';

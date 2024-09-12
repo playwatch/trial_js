@@ -1,10 +1,10 @@
-let animales = ['chanchito,', 'cablaoo'];
+let animales0107 = ['chanchito,', 'cablaoo'];
 
-console.log(animales[0]);
-animales[2] = 'dragon';
-animales[22] = 'perdiz';
-console.log(animales[15]);
+console.log(animales0107[0]);
+animales0107[2] = 'dragon';
+animales0107[22] = 'perdiz';
+console.log(animales0107[15]);
 
-console.log(animales);
-console.log(typeof animales);
-console.log(animales.length);
+console.log(animales0107);
+console.log(typeof animales0107);
+console.log(animales0107.length);

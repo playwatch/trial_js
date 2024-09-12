@@ -1,28 +1,28 @@
-let pares = [
-    [1, {id:1, name: "nico"}],
-    [2, {id:2, name: "felip"}],
-    [3, {id:3, name: "chan"}],
+let pares0408 = [
+    [1, {id0408:1, name0408: "nico"}],
+    [2, {id0408:2, name0408: "felip"}],
+    [3, {id0408:3, name0408: "chan"}],
 ];
 
-let array = [{
-    id: 1,
-    name: 'nico',
+let array0408 = [{
+    id0408: 1,
+    name0408: 'nico',
 }, {
-    id: 2,
-    name: 'felip',
+    id0408: 2,
+    name0408: 'felip',
 }, {
-    id: 3,
-    name: 'chan',
+    id0408: 3,
+    name0408: 'chan',
 }];
 
-function toPairs(arr){
-    let pairs = [];
-    for(identi in arr){
-       let elemento = arr[identi];
-       pairs[identi] = [elemento.id, elemento];
+function toPairs0408(arr0408){
+    let pairs0408 = [];
+    for(identi0408 in arr0408){
+       let elemento0408 = arr0408[identi0408];
+       pairs0408[identi0408] = [elemento0408.id0408, elemento0408];
     }    
-    return pairs;
+    return pairs0408;
 }
 
-let resultado = toPairs(array);
-console.log(resultado);
+let resultado0408 = toPairs0408(array0408);
+console.log(resultado0408);

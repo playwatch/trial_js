@@ -1,9 +1,9 @@
-function Usuario (){
-    this.id = 1;
-    this.recuperarClave = function(){
+function Usuario0504 (){
+    this.id0504 = 1;
+    this.recuperarClave0504 = function(){
         console.log('recuperando clave...');
     }
 }
 
-let user = new Usuario();
-console.log(user);
+let user0504 = new Usuario0504();
+console.log(user0504);

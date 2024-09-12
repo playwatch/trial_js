@@ -1,13 +1,13 @@
-function crearUsuario(name, email){
+function crearUsuario0503(name0503, email0503){
     return{
-        email,
-        name,
-        activo: true,
-        recuperarClave: function(){
+        email0503,
+        name0503,
+        activo0503: true,
+        recuperarClave0503: function(){
             console.log('recuperando clave...');
         },
     };
 }
 
-let user = crearUsuario('nico', 'x@gmail.com');
-console.log(user);
+let user0503 = crearUsuario0503('nico', 'x@gmail.com');
+console.log(user0503);

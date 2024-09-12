@@ -1,6 +1,6 @@
-function cualEsMayor(a, b){
-    return (a > b) ? a : b;
+function cualEsMayor0401(a0401, b0401){
+    return (a0401 > b0401) ? a0401 : b0401;
 }
 
-let mayor = cualEsMayor(7, 6);
-console.log(mayor);
+let mayor0401 = cualEsMayor0401(7, 6);
+console.log(mayor0401);

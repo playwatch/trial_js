@@ -1,5 +1,5 @@
-function total(precio, impuesto){
-    return precio + precio*impuesto;
+function total0407(precio0407, impuesto0407){
+    return precio0407 + precio0407*impuesto0407;
 }
 
-console.log(total(20, 0.18));
+console.log(total0407(20, 0.18));

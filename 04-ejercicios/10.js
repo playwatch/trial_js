@@ -1,13 +1,13 @@
 
-function crearArray(n){
-    let array = [];
-    let i = 0;
-    while(i<n){
-        array[i]= i+1;
-        i++;
+function crearArray0410(n0410){
+    let array0410 = [];
+    let i0410 = 0;
+    while(i0410<n0410){
+        array0410[i0410]= i0410+1;
+        i0410++;
     }
-    return array;
+    return array0410;
 }
-let numero = 7;
-resultado = crearArray(numero);
-console.log(resultado);
+let numero0410 = 7;
+resultado0410 = crearArray0410(numero0410);
+console.log(resultado0410);

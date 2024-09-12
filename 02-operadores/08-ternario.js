@@ -1,4 +1,4 @@
-let edad = 17;
-let acceso = edad > 17 ? 'Permitir acceso' : 'No puede ingresar';
+let edad0208 = 17;
+let acceso0208 = edad0208 > 17 ? 'Permitir acceso' : 'No puede ingresar';
 
-console.log(acceso);
+console.log(acceso0208);

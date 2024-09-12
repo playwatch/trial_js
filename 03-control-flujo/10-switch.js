@@ -1,6 +1,6 @@
-let accion = 'accion';
+let accion0310 = 'accion';
 
-switch (accion) {
+switch (accion0310) {
     case 'listar':
         console.log('accion de listar');
         break;

@@ -1,5 +1,5 @@
-let animales = ['chanchito', 'dragon', 'perrito'];
+let animales0307 = ['chanchito', 'dragon', 'perrito'];
 
-for (let animal of animales){
-    console.log(animal);
+for (let animal0307 of animales0307){
+    console.log(animal0307);
 }

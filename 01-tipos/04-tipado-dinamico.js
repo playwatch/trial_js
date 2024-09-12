@@ -1,12 +1,12 @@
-let numero2 = 42;
-let nombre3 = "h w";
-let verdadero2 = true;
-let undef2;
-let nula = null;
+let numero0104 = 42;
+let nombre0104 = "h w";
+let verdadero0104 = true;
+let undef0104;
+let nula0104 = null;
 
-numero2 = 53;
-console.log(typeof numero2);
-console.log(typeof nombre3);
-console.log(typeof verdadero2);
-console.log(typeof undef2);
-console.log(typeof nula);
+numero0104 = 53;
+console.log(typeof numero0104);
+console.log(typeof nombre0104);
+console.log(typeof verdadero0104);
+console.log(typeof undef0104);
+console.log(typeof nula0104);
