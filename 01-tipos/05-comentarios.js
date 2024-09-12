@@ -10,6 +10,6 @@
  * f
  * d
  */
-let numero = 42;
+let numero3 = 42;
 
-console.log(numero);
+console.log(numero3);
