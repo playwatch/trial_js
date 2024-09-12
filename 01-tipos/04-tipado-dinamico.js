@@ -4,7 +4,7 @@ let verdadero = true;
 let undef;
 let nula = null;
 
-numero = 53;
+numero2 = 53;
 console.log(typeof numero2);
 console.log(typeof nombre3);
 console.log(typeof verdadero);
